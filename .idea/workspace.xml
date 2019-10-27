@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b01f469-c4fd-42de-84b2-0bacbfa21bd3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Q0wcLqn7ohCQtUleEyYaM4q35q" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../10-todolists-redux" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\User\Lessons\it-inkubator\todo\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b01f469-c4fd-42de-84b2-0bacbfa21bd3" name="Default Changelist" comment="" />
+      <created>1566920899568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566920899568</updated>
+      <workItem from="1566920900967" duration="9628000" />
+      <workItem from="1567267778010" duration="24987000" />
+      <workItem from="1568730116153" duration="5040000" />
+      <workItem from="1568820648260" duration="7081000" />
+      <workItem from="1569425256440" duration="11354000" />
+      <workItem from="1569739838694" duration="48000" />
+      <workItem from="1569744028386" duration="1289000" />
+      <workItem from="1569831657714" duration="27000" />
+      <workItem from="1570027809538" duration="2563000" />
+      <workItem from="1570030390437" duration="4377000" />
+      <workItem from="1570634509245" duration="1537000" />
+      <workItem from="1570637310851" duration="45000" />
+      <workItem from="1570639102844" duration="6666000" />
+      <workItem from="1570792277983" duration="3349000" />
+      <workItem from="1571043056577" duration="274000" />
+      <workItem from="1571043688976" duration="696000" />
+      <workItem from="1571235480327" duration="844000" />
+      <workItem from="1571325608926" duration="24000" />
+      <workItem from="1571918587385" duration="1077000" />
+      <workItem from="1571919686558" duration="1347000" />
+      <workItem from="1571921048247" duration="5229000" />
+      <workItem from="1571930860588" duration="358000" />
+      <workItem from="1571932559316" duration="25000" />
+      <workItem from="1571938172973" duration="2795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

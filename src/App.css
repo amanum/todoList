@@ -1,0 +1,44 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 100px;
+}
+
+.todoList {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.todoList > div {
+  padding: 10px;
+}
+
+.todoList-task {
+
+}
+
+.todoList-newItemForm {
+  display: flex;
+}
+
+.todoList-newItemForm input {
+  width: 100%;
+  max-width: 500px;
+}
+
+.todoList-tasks {
+  text-align: left;
+}
+
+.filter-active {
+  background: blue;
+}
+
+.error {
+  border-color: red;
+}
+
+.todoList-task.done {
+  opacity: 0.5;
+}
